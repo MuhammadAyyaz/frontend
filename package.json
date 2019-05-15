@@ -18,4 +18,7 @@
     "url": "https://github.com/MuhammadAyyaz/frontend/issues"
   },
   "homepage": "https://github.com/MuhammadAyyaz/frontend#readme",
-  
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
